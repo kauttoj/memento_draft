@@ -1,0 +1,704 @@
+mask size 227728 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 229131 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S8_analysis_mask.nii)
+mask size 228876 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 224434 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 212860 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 220474 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 227504 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 223225 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 222056 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 220030 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S19_analysis_mask.nii)
+mask size 230478 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 222706 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 225160 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 225555 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 213259 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 219314 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 217865 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 230221 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226940 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 221074 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 235242 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 223221 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223703 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+mask size 228249 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 229626 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S8_analysis_mask.nii)
+mask size 230080 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 223649 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 208498 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 219521 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 216376 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 221661 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 224194 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 218220 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S19_analysis_mask.nii)
+mask size 231954 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 223623 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 224234 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 227468 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 218105 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 220977 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 219647 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 231266 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226207 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 221746 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 231095 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 221490 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223572 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+mask size 228291 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 228323 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S8_analysis_mask.nii)
+mask size 229347 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 224324 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 210334 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 221967 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 228063 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 221178 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 223692 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 219456 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S19_analysis_mask.nii)
+mask size 232045 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 223601 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 226972 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 226570 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 218535 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 220809 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 219333 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 230952 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226595 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 222902 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 233731 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 214607 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223847 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+>>>>>> GROUP MASK SIZE 175816 
+
+>>>>>> Max available volumes (ORIGINAL): 1369 1335 1369
+
+>>>>>> Max available volumes (KRON): 1319 1289 1275
+
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+
+
+Testing group differences of RMS and FWD ISC
+Starting parallel pool (parpool) using the 'local' profile ... connected to 6 workers.
+Data size: 1 samples, 23 (13+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.4 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion RMS: pval = 0.169
+
+Data size: 1 samples, 123 (78+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion ISC (1319 vols): pval = 0.057
+
+Data size: 1 samples, 23 (13+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion RMS: pval = 0.995
+
+Data size: 1 samples, 123 (78+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion ISC (1289 vols): pval = 0.327
+
+Data size: 1 samples, 23 (13+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion RMS: pval = 0.729
+
+Data size: 1 samples, 123 (78+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion ISC (1275 vols): pval = 0.566
+
+----Volume selection data (NOTE: requested times and volumes are shifted by HRF!)------
+ORIGINAL film, ID 22 (scan session 3):
+    sequence time 1163.16-2105.80 (requested 1178.16-2110.26)
+    fmri times 1177.80-2112.24 (vols 756-1355)
+KRON film, ID 22 (scan session 1):
+    sequence time 1050.36-1993.00 (requested 1065.36-1997.46)
+    fmri times 1063.92-1998.36 (vols 683-1282)
+
+
+------------ Starting ISC calculations for segment 1/1 (ID 22) ---------------
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_3/4D.nii
+
+FileID 'KRON_3'
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_10/4D.nii
+
+FileID 'KRON_10'
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_9/4D.nii
+
+FileID 'KRON_9'
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_6/4D.nii
+
+FileID 'KRON_6'
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_8/4D.nii
+
+FileID 'KRON_8'
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_7/4D.nii
+
+FileID 'KRON_7'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_3.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_10.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_9.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_6.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_8.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_7.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+Computing EPI mask... done
+Computing EPI mask... done
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 226220 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 248295 voxels (from 269453)
+...EPI mask size 234680 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 232509 voxels (from 269453)
+...EPI mask size 243236 voxels (from 269453)
+...EPI mask size 239835 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+..Regression progress (226k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.02, max(r2)=0.99, mean(r2)=0.61, std(r2)=0.22
+..Regression progress (235k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.41, std(r2)=0.23
+..Regression progress (233k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.32, std(r2)=0.21
+..Regression progress (248k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.40, std(r2)=0.23
+..Regression progress (243k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.30, std(r2)=0.21
+..Regression progress (240k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.37, std(r2)=0.21
+Filtering data (filter 'SPMhp')...data set has 226220 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 234680 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 232509 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 243236 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 248295 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 239835 signals with duration 600
+ done
+ done
+ done
+ done
+ done
+ done
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_2/4D.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_5/4D.nii
+
+FileID 'KRON_2'
+
+FileID 'KRON_5'
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_12/4D.nii
+
+FileID 'KRON_12'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_2.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/FunImgNormNii/KRON_13/4D.nii
+
+FileID 'KRON_13'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_5.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_12.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/KRON_13.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+Computing EPI mask... done
+...EPI mask size 239322 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 233617 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 237706 voxels (from 269453)
+Applying mask... done
+Computing EPI mask... done
+Applying mask... done
+...EPI mask size 237558 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+..Regression progress (239k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.51, std(r2)=0.24
+..Regression progress (234k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.46, std(r2)=0.24
+..Regression progress (238k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.50, std(r2)=0.23
+..Regression progress (238k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.39, std(r2)=0.24
+Filtering data (filter 'SPMhp')...data set has 239322 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 233617 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 237706 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 237558 signals with duration 600
+ done
+ done
+ done
+ done
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+...subj S19: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S19/4D.nii
+
+FileID 'S19'
+...subj S8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S8/4D.nii
+
+FileID 'S8'
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S17/4D.nii
+
+FileID 'S17'
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S13/4D.nii
+
+FileID 'S13'
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S16/4D.nii
+
+FileID 'S16'
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S10/4D.nii
+
+FileID 'S10'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S19.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S8.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S17.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S13.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S16.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S10.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+Computing EPI mask... done
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 241651 voxels (from 269453)
+...EPI mask size 233485 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 235716 voxels (from 269453)
+...EPI mask size 236730 voxels (from 269453)
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 238875 voxels (from 269453)
+...EPI mask size 234427 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+..Regression progress (233k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.60, std(r2)=0.19
+..Regression progress (236k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.33, std(r2)=0.22
+..Regression progress (242k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.45, std(r2)=0.25
+..Regression progress (237k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.44, std(r2)=0.23
+..Regression progress (239k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.32, std(r2)=0.22
+..Regression progress (234k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.51, std(r2)=0.23
+Filtering data (filter 'SPMhp')...data set has 235716 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 233485 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 236730 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 241651 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 238875 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 234427 signals with duration 600
+ done
+ done
+ done
+ done
+ done
+ done
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S12/4D.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S15/4D.nii
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S7/4D.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S9/4D.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S21/4D.nii
+
+FileID 'S21'
+
+FileID 'S15'
+
+FileID 'S12'
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S22/4D.nii
+
+FileID 'S22'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S21.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+
+FileID 'S7'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S12.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S15.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+
+FileID 'S9'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S22.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S7.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S9.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 225985 voxels (from 269453)
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 245012 voxels (from 269453)
+...EPI mask size 243037 voxels (from 269453)
+...EPI mask size 238872 voxels (from 269453)
+Computing EPI mask... done
+Applying mask... done
+Computing EPI mask... done
+...EPI mask size 241586 voxels (from 269453)
+Applying mask... done
+...EPI mask size 242216 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+..Regression progress (226k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.45, std(r2)=0.23
+..Regression progress (239k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.95, mean(r2)=0.26, std(r2)=0.18
+..Regression progress (243k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.33, std(r2)=0.23
+..Regression progress (245k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.28, std(r2)=0.20
+..Regression progress (242k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.98, mean(r2)=0.31, std(r2)=0.22
+..Regression progress (242k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.01, max(r2)=0.99, mean(r2)=0.33, std(r2)=0.23
+Filtering data (filter 'SPMhp')...data set has 225985 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 238872 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 243037 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 245012 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 241586 signals with duration 600
+Filtering data (filter 'SPMhp')...data set has 242216 signals with duration 600
+ done
+ done
+ done
+Running spatial smoothing
+ done
+ done
+ done
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/FunImgNormNii/S23/4D.nii
+
+FileID 'S23'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22/S23.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/segment_wise_preprocessing/FINAL/Seg_ID_22
+Computing EPI mask... done
+...EPI mask size 240198 voxels (from 269453)
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Creating motion regressors...Detrending data (type 'linear-nodemean')...Detrending data (type 'linear-nodemean')... done
+..Regression progress (240k voxels, 12 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.99, mean(r2)=0.30, std(r2)=0.23
+Filtering data (filter 'SPMhp')...data set has 240198 signals with duration 600
+ done
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..finalizing files
+
+Data size: 1 samples, 123 (78+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (600 vols, 78 vs. 45): pval = 0.477
+Data size: 1 samples, 23 (13+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (600 vols, 13 vs. 10): pval = 0.688
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (296.4s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.130 (null mean -0.000), KRON mean ISC 0.106 (null mean 0.000)
+
+Data size: 161988 samples, 123 (78+45) features
+Slicing data (6 sets)... done (0.3 sec)
+Starting permutations
+...set nr. 3 (of 6) done
+...set nr. 2 (of 6) done
+...set nr. 6 (of 6) done
+...set nr. 1 (of 6) done
+...set nr. 4 (of 6) done
+...set nr. 5 (of 6) done
+done in 520.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 47595/161988 significant at p<0.05
+Bramila Mantel input: input data has 161988 samples with 253 variables, model matrix is 23x23 (->253)
+
+Starting Mantel-test permutations (total 200000)
+Finished permutations (46.0s)!
+Computing empirical p-values (positive-tail)...
+All done (11.3s)!
+
+>>>>>> ISC Mantel test result: 45869/161988 significant at p<0.05
+
+----- Starting classification analysis -----
+...Computing kNN classification accuracy
+...Computing null-distribution
+...Computing p-values (22797 of 161988 with p<0.01)
+...all done!
+

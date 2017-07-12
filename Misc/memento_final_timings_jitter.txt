@@ -1,0 +1,16 @@
+ Analyzing segment ID 11
+ ORIGINAL: 00:15:02:16 -> 00:15:53:44 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:26:46:68 -> 00:27:37:96 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 11 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 19
+ ORIGINAL: 00:08:23:12 -> 00:09:07:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:05:21:00 -> 00:06:05:20 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 19 recommended shift is 0.00s (0 frames)

@@ -1,0 +1,432 @@
+mask size 241206 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed/bramila/S8_analysis_mask.nii)
+mask size 240977 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed/bramila/S9_analysis_mask.nii)
+mask size 224711 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed/bramila/S12_analysis_mask.nii)
+mask size 231400 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed/bramila/KRON_5_analysis_mask.nii)
+mask size 229658 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed/bramila/KRON_6_analysis_mask.nii)
+mask size 242181 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed/bramila/KRON_7_analysis_mask.nii)
+mask size 238791 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed/bramila/KRON_8_analysis_mask.nii)
+
+mask size 241697 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed/bramila/S8_analysis_mask.nii)
+mask size 242177 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed/bramila/S9_analysis_mask.nii)
+mask size 220346 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed/bramila/S12_analysis_mask.nii)
+mask size 233069 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed/bramila/KRON_5_analysis_mask.nii)
+mask size 231496 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed/bramila/KRON_6_analysis_mask.nii)
+mask size 243217 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed/bramila/KRON_7_analysis_mask.nii)
+mask size 238058 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed/bramila/KRON_8_analysis_mask.nii)
+
+mask size 240391 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed/bramila/S8_analysis_mask.nii)
+mask size 241428 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed/bramila/S9_analysis_mask.nii)
+mask size 222185 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed/bramila/S12_analysis_mask.nii)
+mask size 232898 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed/bramila/KRON_5_analysis_mask.nii)
+mask size 231168 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed/bramila/KRON_6_analysis_mask.nii)
+mask size 242863 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed/bramila/KRON_7_analysis_mask.nii)
+mask size 238446 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed/bramila/KRON_8_analysis_mask.nii)
+
+>>>>>> GROUP MASK SIZE 199911 
+
+>>>>>> Max available volumes (ORIGINAL): 1369 1369 1369
+
+>>>>>> Max available volumes (KRON): 1319 1289 1275
+
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+
+
+Testing group differences of RMS and FWD ISC
+Data size: 1 samples, 7 (3+4) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion RMS: pval = 0.336
+
+Data size: 1 samples, 9 (3+6) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion ISC (1319 vols): pval = 0.765
+
+Data size: 1 samples, 7 (3+4) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion RMS: pval = 0.318
+
+Data size: 1 samples, 9 (3+6) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion ISC (1289 vols): pval = 0.086
+
+Data size: 1 samples, 7 (3+4) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion RMS: pval = 0.153
+
+Data size: 1 samples, 9 (3+6) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion ISC (1275 vols): pval = 0.515
+
+
+
+------------ Starting ISC calculations for segment 1/1 ---------------
+
+Reading ORIGINAL data
+ORIGINAL: ses 1, vols 408-598, fmri time 634.92-931.32, seq. time 636.00-930.00, interp. times 636.00-929.28
+...subj S8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/FunImgNormNii/S8/4D.nii
+
+FileID 'S8'
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/FunImgNormNii/S12/4D.nii
+
+FileID 'S12'
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/FunImgNormNii/S9/4D.nii
+
+FileID 'S9'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/S8.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/S12.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/S9.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 244013 voxels (from 269453)
+...EPI mask size 229204 voxels (from 269453)
+Computing EPI mask... done
+...EPI mask size 243341 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+..Regression progress (229k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.14, mean(r2)=0.01, std(r2)=0.01
+..Regression progress (244k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.23, mean(r2)=0.01, std(r2)=0.01
+..Regression progress (243k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.19, mean(r2)=0.02, std(r2)=0.02
+Filtering data (filter 'SPMhp')...data set has 229204 signals with duration 191
+Filtering data (filter 'SPMhp')...data set has 244013 signals with duration 191
+Filtering data (filter 'SPMhp')...data set has 243341 signals with duration 191
+ done
+ done
+Running spatial smoothing
+ done
+Running spatial smoothing
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+
+Reading KRON data
+KRON: ses 3, vols 842-1031, fmri time 1311.96-1606.80, seq. time 1312.00-1606.00, interp. time 1312.00-1605.28
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/FunImgNormNii/KRON_6/4D.nii
+
+FileID 'KRON_6'
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/FunImgNormNii/KRON_7/4D.nii
+
+FileID 'KRON_7'
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/FunImgNormNii/KRON_5/4D.nii
+
+FileID 'KRON_5'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/KRON_6.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/KRON_7.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/FunImgNormNii/KRON_8/4D.nii
+
+FileID 'KRON_8'
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/KRON_5.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+EPI path: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1/KRON_8.nii
+Save folder: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise/Segment_1
+Computing EPI mask... done
+...EPI mask size 244026 voxels (from 269453)
+Computing EPI mask... done
+Computing EPI mask... done
+...EPI mask size 234196 voxels (from 269453)
+...EPI mask size 235936 voxels (from 269453)
+Applying mask... done
+Applying mask... done
+Applying mask... done
+Computing EPI mask... done
+...EPI mask size 239863 voxels (from 269453)
+Applying mask... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+Detrending data (type 'linear-nodemean')... done
+..Regression progress (234k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.20, mean(r2)=0.01, std(r2)=0.02
+..Regression progress (244k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.25, mean(r2)=0.01, std(r2)=0.02
+..Regression progress (236k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.20, mean(r2)=0.01, std(r2)=0.02
+Filtering data (filter 'SPMhp')...data set has 234196 signals with duration 190
+Filtering data (filter 'SPMhp')...data set has 244026 signals with duration 190
+..Regression progress (240k voxels, 1 regressors): 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+....min(r2)=0.00, max(r2)=0.57, mean(r2)=0.06, std(r2)=0.08
+Filtering data (filter 'SPMhp')...data set has 235936 signals with duration 190
+Filtering data (filter 'SPMhp')...data set has 239863 signals with duration 190
+ done
+ done
+ done
+Running spatial smoothing
+Running spatial smoothing
+Running spatial smoothing
+ done
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+..creating tempfile
+..running FSL maths
+Running spatial smoothing
+..creating tempfile
+..running FSL maths
+..finalizing files
+..finalizing files
+..finalizing files
+..finalizing files
+
+Data size: 1 samples, 9 (3+6) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.0 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (190 vols, 3 vs. 6): pval = 0.800
+Data size: 1 samples, 7 (3+4) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (190 vols, 3 vs. 4): pval = 0.867
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 100000)
+Finished (117.3s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.426 (null mean 0.000), KRON mean ISC 0.107 (null mean -0.000)
+
+Data size: 199911 samples, 9 (3+6) features
+Slicing data (5 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 5) done
+...set nr. 3 (of 5) done
+...set nr. 2 (of 5) done
+...set nr. 4 (of 5) done
+...set nr. 5 (of 5) done
+done in 88.5 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 5944/199911 significant at p<0.05
+Bramila Mantel input: input data has 199911 samples with 21 variables, model matrix is 7x7 (->21)
+
+Starting Mantel-test permutations (total 100000)
+Operation terminated by user during statslib.internal.parseArgs>@(z)any(strncmpi(s,z,n))
+
+
+In statslib.internal.parseArgs>multistrncmpi (line 114)
+    tf = cellfun(f,c);
+
+In statslib.internal.parseArgs (line 70)
+    mask = multistrncmpi(pname,pnames,length(pname)); % look for partial match
+
+In internal.stats.parseArgs (line 42)
+[varargout{1:nargout}] = statslib.internal.parseArgs(pnames,dflts,varargin{:});
+
+In corr (line 110)
+[type,rows,tail] = internal.stats.parseArgs(pnames,dflts,varargin{:});
+
+In bramila_mantel_vector>(parfor body) (line 85)
+    surro(i) = corr(data(:,voxel(i)),temp(mat_ind),'type',type);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr>corrSpearman (line 638)
+
+
+In corr (line 208)
+        coef = corrFun(rows,tail,x,y);
+
+In bramila_mantel_vector>(parfor body) (line 85)
+    surro(i) = corr(data(:,voxel(i)),temp(mat_ind),'type',type);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during statslib.internal.parseArgs>multistrncmpi (line 118)
+
+
+In statslib.internal.parseArgs (line 70)
+    mask = multistrncmpi(pname,pnames,length(pname)); % look for partial match
+
+In internal.stats.parseArgs (line 42)
+[varargout{1:nargout}] = statslib.internal.parseArgs(pnames,dflts,varargin{:});
+
+In corr (line 110)
+[type,rows,tail] = internal.stats.parseArgs(pnames,dflts,varargin{:});
+
+In bramila_mantel_vector>(parfor body) (line 85)
+    surro(i) = corr(data(:,voxel(i)),temp(mat_ind),'type',type);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr (line 98)
+
+
+In bramila_mantel_vector>(parfor body) (line 85)
+    surro(i) = corr(data(:,voxel(i)),temp(mat_ind),'type',type);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr (line 109)
+
+
+In bramila_mantel_vector>(parfor body) (line 85)
+    surro(i) = corr(data(:,voxel(i)),temp(mat_ind),'type',type);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals (line 119)
+
+
+In parallel_function>distributed_execution (line 793)
+        [tags, out] = P.getCompleteIntervals(min(thisDispatchSize, j));
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In bramila_mantel_vector (line 81)
+parfor i=1:iter
+
+In memento_segment_wise_ISC_preprocessor (line 391)
+    [ISC_perspective_corr{kk},ISC_perspective_pval{kk}]=bramila_mantel_vector(testdata,perspective_model,100000,'spearman',N_WORKER);} 
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise
+
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise
+
+clc;clear all;close all;
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/ISC/segment_wise
+
+cd ..
+cd ..
+cd ..
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis
+
+cd ..
+cd preprocessed/
+run_bramila_memento_spm12_normal
+[Warning: File 'memento_bramila_diary_normal.txt' not found.] 
+[> In run_bramila_memento_spm12_normal at 129] 

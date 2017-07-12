@@ -1,0 +1,176 @@
+ Analyzing segment ID 1
+ ORIGINAL: 00:02:55:88 -> 00:06:05:00 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:29:41:28 -> 00:32:50:40 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 1 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 2
+ ORIGINAL: 00:06:48:36 -> 00:09:45:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:26:44:12 -> 00:29:41:08 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 2 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 3
+ ORIGINAL: 00:10:36:76 -> 00:15:27:84 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:21:53:00 -> 00:26:44:08 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 3 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 4
+ ORIGINAL: 00:16:14:68 -> 00:21:10:84 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:16:56:80 -> 00:21:52:96 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 4 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 5
+ ORIGINAL: 00:21:58:24 -> 00:25:27:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:13:27:48 -> 00:16:56:56 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 5 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 6
+ ORIGINAL: 00:27:18:48 -> 00:30:21:12 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run1.avi)
+ KRON: 00:10:30:36 -> 00:13:33:00 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 6 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 8
+ ORIGINAL: 00:03:23:32 -> 00:07:43:60 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:00:00:04 -> 00:04:20:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M3_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 8 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 9
+ ORIGINAL: 00:08:43:52 -> 00:11:27:72 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:30:06:20 -> 00:32:50:40 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 9 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 10
+ ORIGINAL: 00:11:55:80 -> 00:14:27:36 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:27:36:92 -> 00:30:08:48 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 10 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 11
+ ORIGINAL: 00:15:02:16 -> 00:15:53:44 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:26:46:68 -> 00:27:37:96 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ Analyzing segment ID 11
+ ORIGINAL: 00:15:02:16 -> 00:15:53:44 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:26:46:68 -> 00:27:37:96 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 11 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 12
+ ORIGINAL: 00:16:18:92 -> 00:18:50:64 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:24:13:88 -> 00:26:45:60 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 12 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 13
+ ORIGINAL: 00:19:41:64 -> 00:21:36:04 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:22:18:24 -> 00:24:12:64 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 13 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 14
+ ORIGINAL: 00:22:17:52 -> 00:24:39:20 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:19:55:80 -> 00:22:17:48 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 14 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 15
+ ORIGINAL: 00:27:01:44 -> 00:31:00:52 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:15:55:48 -> 00:19:54:56 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 15 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 16
+ ORIGINAL: 00:31:43:92 -> 00:34:32:12 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run2.avi)
+ KRON: 00:13:06:80 -> 00:15:55:00 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 16 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 17
+ ORIGINAL: 00:00:00:04 -> 00:03:22:48 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:09:57:40 -> 00:13:19:84 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 17 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 18
+ ORIGINAL: 00:03:55:96 -> 00:07:27:72 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:06:05:60 -> 00:09:37:36 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 18 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 19
+ ORIGINAL: 00:08:23:12 -> 00:09:07:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:05:21:00 -> 00:06:05:20 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ Analyzing segment ID 19
+ ORIGINAL: 00:08:23:12 -> 00:09:07:32 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:05:21:00 -> 00:06:05:20 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 19 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 20
+ ORIGINAL: 00:09:39:48 -> 00:12:13:20 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:02:53:28 -> 00:05:27:00 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 20 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 21
+ ORIGINAL: 00:16:29:72 -> 00:19:22:60 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:00:00:04 -> 00:02:52:92 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M2_chronological_stimuls_april2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 21 recommended shift is 0.00s (0 frames)
+ Analyzing segment ID 22
+ ORIGINAL: 00:19:23:16 -> 00:35:05:80 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/Memento3part_run3.avi)
+ KRON: 00:17:30:36 -> 00:33:13:00 (file /triton/becs/scratch/braindata/kauttoj2/Memento/2015/Stimulus/M1_chrono_checkAudio_Mjpeg_April2015.avi)
+ ...running jitter analysis
+ ... 1/10
+ ... 2/10
+ ...done
+>>>>>>>>> Segment ID 22 recommended shift is 0.00s (0 frames)

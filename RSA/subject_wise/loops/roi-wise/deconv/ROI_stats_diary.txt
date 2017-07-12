@@ -1,0 +1,1096 @@
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+<a href="matlab: opentoline('/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv/compute_roi_correlations_stats_stage3_deconv.m',44,1)">44  </a>    [~,low]=min(abs(COLOR_SEGMENTS(i).ORIGINAL_time(1) - volume_times));    
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+compute_roi_correlations_stats_stage3_deconv(500,5)
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+
+--- Number of ROIs is 244 ---
+
+--- Starting iterations ---
+
+Loading data for Subject S19... 
+
+Loading data for Subject S16... 
+
+Loading data for Subject S15... 
+
+Loading data for Subject S13... 
+
+Loading data for Subject S17... 
+
+Loading data for Subject S10... 
+
+Loading data for Subject S8... 
+{Error using compute_roi_correlations_stats_stage3_deconv>load_data (line 237)
+Unable to read file 'S13_roi_data.mat'. No such file or directory.
+
+Error in compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 150)
+    data = load_data([subj,'_roi_data.mat']);
+
+Error in compute_roi_correlations_stats_stage3_deconv (line 141)
+parfor subj_ind = 1:length(S);
+} 
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv
+
+compute_roi_correlations_stats_stage3_deconv(10000,7)
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+
+--- Number of ROIs is 244 ---
+
+--- Starting iterations ---
+
+Loading data for Subject S19... done
+Starting iterations
+
+Loading data for Subject S8... done
+Starting iterations
+
+Loading data for Subject S15... done
+Starting iterations
+
+Loading data for Subject S17... done
+Starting iterations
+
+Loading data for Subject S13... done
+Starting iterations
+
+Loading data for Subject S10... done
+Starting iterations
+
+Loading data for Subject S16... done
+Starting iterations
+Operation terminated by user during corr>corrPearson (line 305)
+
+
+In corr (line 202)
+        coef = corrFun(rows,tail,x);
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 196)
+            cormat = corr(avg_img{j});
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 181)
+
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr (line 158)
+
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 196)
+            cormat = corr(avg_img{j});
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr>corrPearson (line 296)
+
+
+In corr (line 202)
+        coef = corrFun(rows,tail,x);
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 196)
+            cormat = corr(avg_img{j});
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr>corrPearson (line 293)
+
+
+In corr (line 202)
+        coef = corrFun(rows,tail,x);
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 196)
+            cormat = corr(avg_img{j});
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during corr>corrPearson (line 297)
+
+
+In corr (line 202)
+        coef = corrFun(rows,tail,x);
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 196)
+            cormat = corr(avg_img{j});
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during mean (line 82)
+
+
+In compute_roi_correlations_stats_stage3_deconv>(parfor body) (line 197)
+            subj_nullvals(j,iter)=mean(cormat(indd));
+
+In parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{Operation terminated by user during distcomp.remoteparfor/getCompleteIntervals
+(line 119)
+
+
+In parallel_function>distributed_execution (line 820)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+In parallel_function (line 587)
+        R = distributed_execution(...
+
+In compute_roi_correlations_stats_stage3_deconv (line 141)
+parfor subj_ind = 1:length(S);
+} 
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv
+
+compute_roi_correlations_stats_stage3_deconv(10000,7)
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+<a href="matlab: opentoline('/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv/compute_roi_correlations_stats_stage3_deconv.m',118,1)">118 </a>fprintf('\n--- Number of ROIs is %i ---\n',N_rois);
+nulldata(1)
+
+ans = 
+
+    startind: [746 908 333 1090 453 863 1315 1066 392 535 219 655 426 218 1117]
+     session: [1 1 1 1 1 2 2 2 2 2 2 3 3 3 3]
+     segment: [4 5 2 6 3 14 16 15 9 10 8 21 20 18 22]
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+--- Number of ROIs is 244 ---
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+clc;clear all;close all;
+load('volume_selection_data_stats.mat')
+clc;clear all;close all;
+diary off
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+
+--- Number of ROIs is 244 ---
+
+--- Starting iterations ---
+
+Loading data for Subject S19... done
+Starting iterations
+
+Loading data for Subject S16... done
+Starting iterations
+
+Loading data for Subject S15... done
+Starting iterations
+
+Loading data for Subject S13... done
+Starting iterations
+
+Loading data for Subject S17... done
+Starting iterations
+
+Loading data for Subject S10... done
+Starting iterations
+
+Loading data for Subject S8... done
+Starting iterations
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+
+... iter 10000/10000
+done, saving data.
+
+
+Loading data for Subject S21... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+Loading data for Subject S7... done
+Starting iterations
+Loading data for Subject S12... done
+Starting iterations
+
+Loading data for Subject S22... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+
+... iter 10000/10000
+done, saving data.
+Loading data for Subject S9... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+
+Loading data for Subject S23... done
+Starting iterations
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+{Error using +
+Matrix dimensions must agree.
+
+Error in compute_roi_correlations_stats_stage3_deconv (line 218)
+    all_nullvals = all_nullvals+subj_nullvals;
+} 
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv
+
+cd ..
+cd deconv2
+pwd
+
+ans =
+
+/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/RSA/subject_wise/loops/roi-wise/deconv2
+
+clc;clear all;close all;
+run_anal
+EPI mask has 182991 voxels
+PATTERN mask has 179494 voxels
+Using total 244 masks
+        1335
+
+[Warning: ses 2: S13 has less volumes than expected!] 
+[> In prepare_roi_data_looper_stage1_deconv at 119
+  In run_anal at 5] 
+Starting parallel pool (parpool) using the 'local' profile ... connected to 7 workers.
+
+-- loading and saving data ---
+...Subject S13
+...Subject S8
+...Subject S10
+...Subject S17
+...Subject S16
+...Subject S15
+...Subject S19
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Z-scoring data (second standardization)... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+...Subject S12
+...Subject S9
+...Subject S21
+...Subject S7
+...Subject S22
+...Subject S23
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Z-scoring data (second standardization)... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Mask size [77, 96, 109, 70, 109, 108, 70, 107, 123, 122, 94, 123, 123, 123, 96, ...], reading data (in 2 parts)... 1 2  done!
+Deconvolving data... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+Z-scoring data (second standardization)... done!
+
+ ALL DONE!

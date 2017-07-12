@@ -1,0 +1,804 @@
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+
+--- Number of ROIs is 244 ---
+
+--- Starting iterations ---
+
+Loading data for Subject S13... done
+Starting iterations
+
+Loading data for Subject S8... done
+Starting iterations
+
+Loading data for Subject S17... done
+Starting iterations
+
+Loading data for Subject S16... done
+Starting iterations
+
+Loading data for Subject S15... done
+Starting iterations
+
+Loading data for Subject S19... done
+Starting iterations
+
+Loading data for Subject S10... done
+Starting iterations
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+... iter 10000/10000
+done, saving data.
+
+done, saving data.
+
+Loading data for Subject S21... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+
+Loading data for Subject S9... done
+Starting iterations
+
+Loading data for Subject S22... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+
+... iter 10000/10000
+done, saving data.
+Loading data for Subject S12... done
+Starting iterations
+Loading data for Subject S7... done
+Starting iterations
+
+Loading data for Subject S23... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+... iter 10000/10000
+done, saving data.
+done, saving data.
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.20s, CHRONO. duration = 168.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:92 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:80 -> 00:15:55:00
+Segment ID = 17:
+   ORIG. duration = 202.44s, CHRONO. duration = 202.44s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:00:00:04 -> 00:03:22:48
+   CHRONO. ses = 2, timeslot 00:09:57:40 -> 00:13:19:84
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:16 -> 00:35:05:80
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+-- Processing timing data ---
+
+--- Number of ROIs is 244 ---
+
+--- Starting iterations ---
+
+Loading data for Subject S13... done
+Starting iterations
+
+Loading data for Subject S8... done
+Starting iterations
+
+Loading data for Subject S17... done
+Starting iterations
+
+Loading data for Subject S16... done
+Starting iterations
+
+Loading data for Subject S15... done
+Starting iterations
+
+Loading data for Subject S19... done
+Starting iterations
+
+Loading data for Subject S10... done
+Starting iterations
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+
+... iter 10000/10000
+... iter 10000/10000
+done, saving data.
+
+done, saving data.
+
+Loading data for Subject S7... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+Loading data for Subject S9... done
+Starting iterations
+Loading data for Subject S12... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+
+Loading data for Subject S21... done
+Starting iterations
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+
+Loading data for Subject S22... done
+Starting iterations
+
+Loading data for Subject S23... done
+Starting iterations
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 500/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1000/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 1500/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2000/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 2500/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3000/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 3500/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4000/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 4500/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5000/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 5500/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6000/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 6500/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7000/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 7500/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8000/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 8500/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9000/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 9500/10000
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.
+... iter 10000/10000
+done, saving data.

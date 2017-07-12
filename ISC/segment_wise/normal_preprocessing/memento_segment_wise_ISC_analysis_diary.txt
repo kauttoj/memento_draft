@@ -1,0 +1,1929 @@
+mask size 227728 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 228876 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 224434 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 212860 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 220474 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 227504 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 223225 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 222056 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 230478 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 222706 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 225160 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 225555 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 213259 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 219314 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 217865 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 230221 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226940 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 221074 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 235242 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 223221 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223703 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+mask size 228249 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 230080 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 223649 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 208498 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 219521 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 216376 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 221661 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 224194 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 231954 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 223623 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 224234 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 227468 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 218105 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 220977 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 219647 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 231266 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226207 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 221746 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 231095 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 221490 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223572 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+mask size 228291 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S7_analysis_mask.nii)
+mask size 229347 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S9_analysis_mask.nii)
+mask size 224324 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S10_analysis_mask.nii)
+mask size 210334 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S12_analysis_mask.nii)
+mask size 221967 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S13_analysis_mask.nii)
+mask size 228063 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S15_analysis_mask.nii)
+mask size 221178 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S16_analysis_mask.nii)
+mask size 223692 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S17_analysis_mask.nii)
+mask size 232045 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S21_analysis_mask.nii)
+mask size 223601 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S22_analysis_mask.nii)
+mask size 226972 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S23_analysis_mask.nii)
+mask size 226570 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_analysis_mask.nii)
+mask size 218535 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_analysis_mask.nii)
+mask size 220809 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_analysis_mask.nii)
+mask size 219333 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_analysis_mask.nii)
+mask size 230952 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_analysis_mask.nii)
+mask size 226595 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_analysis_mask.nii)
+mask size 222902 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_analysis_mask.nii)
+mask size 233731 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_analysis_mask.nii)
+mask size 214607 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_analysis_mask.nii)
+mask size 223847 (/triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_analysis_mask.nii)
+
+>>>>>> GROUP MASK SIZE 176520 
+
+>>>>>> Max available volumes (ORIGINAL): 1369 1335 1369
+
+>>>>>> Max available volumes (KRON): 1319 1289 1275
+
+Bramila Mantel input: input data has 20041 samples with 21 variables, model matrix is 7x7 (->21)
+
+Starting Mantel-test permutations (total 100000)
+Finished (43.1s)!
+
+>>>>>> ISC Mantel test result: 0/20041 significant at p<0.05
+if system_dependent('IsDebugMode')==1, dbquit; end
+MOVIE_SEGMENTS(1)
+
+ans = 
+
+                   ID: 15
+         ORIGINAL_ses: 2
+        ORIGINAL_time: [1.6214e+03 1.8605e+03]
+    ORIGINAL_time_str: '00:27:01:44 -> 00:31:00:52'
+             KRON_ses: 2
+            KRON_time: [955.4800 1.1946e+03]
+        KRON_time_str: '00:15:55:48 -> 00:19:54:56'
+      time_difference: 0
+
+4/1.56
+
+ans =
+
+    2.5641
+
+4*60/1.56
+
+ans =
+
+  153.8462
+
+153/1.56
+
+ans =
+
+   98.0769
+
+4*60
+
+ans =
+
+   240
+
+memento_segment_wise_ISC
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.32s, CHRONO. duration = 168.32s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:80 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:68 -> 00:15:55:00
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:20 -> 00:35:05:84
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+memento_segment_wise_ISC
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.32s, CHRONO. duration = 168.32s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:80 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:68 -> 00:15:55:00
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:20 -> 00:35:05:84
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+if system_dependent('IsDebugMode')==1, dbquit; end
+SELECTED_IDs=1:22;
+
+ind=[];
+k=0;
+for i=1:length(MOVIE_SEGMENTS)
+    MOVIE_SEGMENTS(i).ORIGINAL_time = MOVIE_SEGMENTS(i).ORIGINAL_time + [START_SHIFT,END_SHIFT];
+    MOVIE_SEGMENTS(i).KRON_time=MOVIE_SEGMENTS(i).KRON_time + [START_SHIFT,END_SHIFT];
+    if ismember(MOVIE_SEGMENTS(i).ID,SELECTED_IDs)        
+        if diff(MOVIE_SEGMENTS(i).ORIGINAL_time)>150                       
+            ind(end+1)=i;
+            if abs(diff(MOVIE_SEGMENTS(i).ORIGINAL_time)-diff(MOVIE_SEGMENTS(i).KRON_time))>1e-10
+                error('Bad timing!')
+            end
+        end
+    end
+end
+MOVIE_SEGMENTS = MOVIE_SEGMENTS(ind);
+MOVIE_SEGMENTS.ID
+
+ans =
+
+     1
+
+
+ans =
+
+     2
+
+
+ans =
+
+     3
+
+
+ans =
+
+     4
+
+
+ans =
+
+     5
+
+
+ans =
+
+     6
+
+
+ans =
+
+     8
+
+
+ans =
+
+     9
+
+
+ans =
+
+    15
+
+
+ans =
+
+    16
+
+
+ans =
+
+    18
+
+
+ans =
+
+    21
+
+
+ans =
+
+    22
+
+TIMING_FILE = '/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/Misc/memento_final_timings.txt';
+MOVIE_SEGMENTS = parse_timing_file(TIMING_FILE);
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.32s, CHRONO. duration = 168.32s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:80 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:68 -> 00:15:55:00
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:20 -> 00:35:05:84
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+%load('/triton/becs/scratch/braindata/kauttoj2/Memento/2015/analysis/memento_git_project/Misc/repeating_segment_data_stage1.mat','full_corrdata');
+%SEGMENT_TIMINGS = load('???????');
+
+%selected_segments = [
+
+% original:	636 - 930	(video1)
+% 		201 - 462	(video2)
+% 		1498 - 2107	(video3)
+% kron:		1312 -1606	(video3)
+% 		0 - 261		(video3)
+% 		1385 - 1994	(video1)
+
+START_SHIFT = 10; % seconds
+END_SHIFT = 5; % seconds
+
+SELECTED_IDs=1:22;
+SELECTED_IDs(SELECTED_IDs==16)=[];
+
+ind=[];
+k=0;
+for i=1:length(MOVIE_SEGMENTS)
+    MOVIE_SEGMENTS(i).ORIGINAL_time = MOVIE_SEGMENTS(i).ORIGINAL_time + [START_SHIFT,END_SHIFT];
+    MOVIE_SEGMENTS(i).KRON_time=MOVIE_SEGMENTS(i).KRON_time + [START_SHIFT,END_SHIFT];
+    if ismember(MOVIE_SEGMENTS(i).ID,SELECTED_IDs)        
+        if diff(MOVIE_SEGMENTS(i).ORIGINAL_time)>150                       
+            ind(end+1)=i;
+            if abs(diff(MOVIE_SEGMENTS(i).ORIGINAL_time)-diff(MOVIE_SEGMENTS(i).KRON_time))>1e-10
+                error('Bad timing!')
+            end
+        end
+    end
+end
+MOVIE_SEGMENTS = MOVIE_SEGMENTS(ind);
+MOVIE_SEGMENTS
+
+MOVIE_SEGMENTS = 
+
+1x12 <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> array with fields:
+
+    ID
+    ORIGINAL_ses
+    ORIGINAL_time
+    ORIGINAL_time_str
+    KRON_ses
+    KRON_time
+    KRON_time_str
+    time_difference
+
+MOVIE_SEGMENTS.ID
+
+ans =
+
+     1
+
+
+ans =
+
+     2
+
+
+ans =
+
+     3
+
+
+ans =
+
+     4
+
+
+ans =
+
+     5
+
+
+ans =
+
+     6
+
+
+ans =
+
+     8
+
+
+ans =
+
+     9
+
+
+ans =
+
+    15
+
+
+ans =
+
+    18
+
+
+ans =
+
+    21
+
+
+ans =
+
+    22
+
+fix_original_chrono_timings_stage3
+Segment ID = 1:
+   ORIG. duration = 189.12s, CHRONO. duration = 189.12s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:02:55:88 -> 00:06:05:00
+   CHRONO. ses = 3, timeslot 00:29:41:28 -> 00:32:50:40
+Segment ID = 2:
+   ORIG. duration = 176.96s, CHRONO. duration = 176.96s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:06:48:36 -> 00:09:45:32
+   CHRONO. ses = 3, timeslot 00:26:44:12 -> 00:29:41:08
+Segment ID = 3:
+   ORIG. duration = 291.08s, CHRONO. duration = 291.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:10:36:76 -> 00:15:27:84
+   CHRONO. ses = 3, timeslot 00:21:53:00 -> 00:26:44:08
+Segment ID = 4:
+   ORIG. duration = 296.16s, CHRONO. duration = 296.16s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:16:14:68 -> 00:21:10:84
+   CHRONO. ses = 3, timeslot 00:16:56:80 -> 00:21:52:96
+Segment ID = 5:
+   ORIG. duration = 209.08s, CHRONO. duration = 209.08s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:21:58:24 -> 00:25:27:32
+   CHRONO. ses = 3, timeslot 00:13:27:48 -> 00:16:56:56
+Segment ID = 6:
+   ORIG. duration = 182.64s, CHRONO. duration = 182.64s (difference 0.00s)
+   ORIG.   ses = 1, timeslot 00:27:18:48 -> 00:30:21:12
+   CHRONO. ses = 3, timeslot 00:10:30:36 -> 00:13:33:00
+Segment ID = 8:
+   ORIG. duration = 260.28s, CHRONO. duration = 260.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:03:23:32 -> 00:07:43:60
+   CHRONO. ses = 3, timeslot 00:00:00:04 -> 00:04:20:32
+Segment ID = 9:
+   ORIG. duration = 164.20s, CHRONO. duration = 164.20s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:08:43:52 -> 00:11:27:72
+   CHRONO. ses = 2, timeslot 00:30:06:20 -> 00:32:50:40
+Segment ID = 10:
+   ORIG. duration = 151.56s, CHRONO. duration = 151.56s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:11:55:80 -> 00:14:27:36
+   CHRONO. ses = 2, timeslot 00:27:36:92 -> 00:30:08:48
+Segment ID = 11:
+   ORIG. duration = 51.28s, CHRONO. duration = 51.28s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:15:02:16 -> 00:15:53:44
+   CHRONO. ses = 2, timeslot 00:26:46:68 -> 00:27:37:96
+Segment ID = 12:
+   ORIG. duration = 151.72s, CHRONO. duration = 151.72s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:16:18:92 -> 00:18:50:64
+   CHRONO. ses = 2, timeslot 00:24:13:88 -> 00:26:45:60
+Segment ID = 13:
+   ORIG. duration = 114.40s, CHRONO. duration = 114.40s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:19:41:64 -> 00:21:36:04
+   CHRONO. ses = 2, timeslot 00:22:18:24 -> 00:24:12:64
+Segment ID = 14:
+   ORIG. duration = 141.68s, CHRONO. duration = 141.68s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:22:17:52 -> 00:24:39:20
+   CHRONO. ses = 2, timeslot 00:19:55:80 -> 00:22:17:48
+Segment ID = 15:
+   ORIG. duration = 239.08s, CHRONO. duration = 239.08s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:27:01:44 -> 00:31:00:52
+   CHRONO. ses = 2, timeslot 00:15:55:48 -> 00:19:54:56
+Segment ID = 16:
+   ORIG. duration = 168.32s, CHRONO. duration = 168.32s (difference 0.00s)
+   ORIG.   ses = 2, timeslot 00:31:43:80 -> 00:34:32:12
+   CHRONO. ses = 2, timeslot 00:13:06:68 -> 00:15:55:00
+Segment ID = 18:
+   ORIG. duration = 211.76s, CHRONO. duration = 211.76s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:03:55:96 -> 00:07:27:72
+   CHRONO. ses = 2, timeslot 00:06:05:60 -> 00:09:37:36
+Segment ID = 19:
+   ORIG. duration = 44.20s, CHRONO. duration = 44.20s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:08:23:12 -> 00:09:07:32
+   CHRONO. ses = 2, timeslot 00:05:21:00 -> 00:06:05:20
+Segment ID = 20:
+   ORIG. duration = 153.72s, CHRONO. duration = 153.72s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:09:39:48 -> 00:12:13:20
+   CHRONO. ses = 2, timeslot 00:02:53:28 -> 00:05:27:00
+Segment ID = 21:
+   ORIG. duration = 172.88s, CHRONO. duration = 172.88s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:16:29:72 -> 00:19:22:60
+   CHRONO. ses = 2, timeslot 00:00:00:04 -> 00:02:52:92
+Segment ID = 22:
+   ORIG. duration = 942.64s, CHRONO. duration = 942.64s (difference 0.00s)
+   ORIG.   ses = 3, timeslot 00:19:23:20 -> 00:35:05:84
+   CHRONO. ses = 1, timeslot 00:17:30:36 -> 00:33:13:00
+
+
+>>>>> 0 bad segments were discarded
+
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+Computing framewise displacement...Detrending data (type 'linear-demean')... done
+
+
+Testing group differences of RMS and FWD ISC
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 3.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion RMS: pval = 0.066
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.0 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 1 motion ISC (1319 vols): pval = 0.147
+
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion RMS: pval = 0.761
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 2 motion ISC (1289 vols): pval = 0.132
+
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion RMS: pval = 0.358
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Session 3 motion ISC (1275 vols): pval = 0.496
+
+----Volume selection data (NOTE: requested times and volumes are shifted by HRF!)------
+ORIGINAL film, ID 1 (scan session 1):
+    sequence time 175.88-365.00 (requested 185.88-369.96)
+    fmri times 185.64-371.28 (vols 120-239)
+KRON film, ID 1 (scan session 3):
+    sequence time 1781.28-1970.40 (requested 1791.28-1975.36)
+    fmri times 1790.88-1976.52 (vols 1149-1268)
+ORIGINAL film, ID 2 (scan session 1):
+    sequence time 408.36-585.32 (requested 418.36-589.96)
+    fmri times 418.08-591.24 (vols 269-380)
+KRON film, ID 2 (scan session 3):
+    sequence time 1604.12-1781.08 (requested 1614.12-1785.72)
+    fmri times 1613.04-1786.20 (vols 1035-1146)
+ORIGINAL film, ID 3 (scan session 1):
+    sequence time 636.76-927.84 (requested 646.76-932.24)
+    fmri times 645.84-932.88 (vols 415-599)
+KRON film, ID 3 (scan session 3):
+    sequence time 1313.00-1604.08 (requested 1323.00-1608.48)
+    fmri times 1322.88-1609.92 (vols 849-1033)
+ORIGINAL film, ID 4 (scan session 1):
+    sequence time 974.68-1270.84 (requested 984.68-1275.62)
+    fmri times 984.36-1276.08 (vols 632-819)
+KRON film, ID 4 (scan session 3):
+    sequence time 1016.80-1312.96 (requested 1026.80-1317.74)
+    fmri times 1026.48-1318.20 (vols 659-846)
+ORIGINAL film, ID 5 (scan session 1):
+    sequence time 1318.24-1527.32 (requested 1328.24-1531.82)
+    fmri times 1327.56-1533.48 (vols 852-984)
+KRON film, ID 5 (scan session 3):
+    sequence time 807.48-1016.56 (requested 817.48-1021.06)
+    fmri times 817.44-1021.80 (vols 525-656)
+ORIGINAL film, ID 6 (scan session 1):
+    sequence time 1638.48-1821.12 (requested 1648.48-1825.54)
+    fmri times 1647.36-1826.76 (vols 1057-1172)
+KRON film, ID 6 (scan session 3):
+    sequence time 630.36-813.00 (requested 640.36-817.42)
+    fmri times 639.60-819.00 (vols 411-526)
+ORIGINAL film, ID 8 (scan session 2):
+    sequence time 203.32-463.60 (requested 213.32-468.38)
+    fmri times 212.16-469.56 (vols 137-302)
+KRON film, ID 8 (scan session 3):
+    sequence time 0.04-260.32 (requested 10.04-265.10)
+    fmri times 9.36-266.76 (vols 7-172)
+ORIGINAL film, ID 9 (scan session 2):
+    sequence time 523.52-687.72 (requested 533.52-692.64)
+    fmri times 531.96-694.20 (vols 342-446)
+KRON film, ID 9 (scan session 2):
+    sequence time 1806.20-1970.40 (requested 1816.20-1975.32)
+    fmri times 1815.84-1976.52 (vols 1165-1268)
+ORIGINAL film, ID 15 (scan session 2):
+    sequence time 1621.44-1860.52 (requested 1631.44-1865.44)
+    fmri times 1630.20-1865.76 (vols 1046-1197)
+KRON film, ID 15 (scan session 2):
+    sequence time 955.48-1194.56 (requested 965.48-1199.48)
+    fmri times 964.08-1199.64 (vols 619-770)
+ORIGINAL film, ID 18 (scan session 3):
+    sequence time 235.96-447.72 (requested 245.96-452.66)
+    fmri times 244.92-453.96 (vols 158-292)
+KRON film, ID 18 (scan session 2):
+    sequence time 365.60-577.36 (requested 375.60-582.30)
+    fmri times 374.40-583.44 (vols 241-375)
+ORIGINAL film, ID 21 (scan session 3):
+    sequence time 989.72-1162.60 (requested 999.72-1167.42)
+    fmri times 998.40-1168.44 (vols 641-750)
+KRON film, ID 21 (scan session 2):
+    sequence time 0.04-172.92 (requested 10.04-177.74)
+    fmri times 9.36-179.40 (vols 7-116)
+ORIGINAL film, ID 22 (scan session 3):
+    sequence time 1163.20-2105.84 (requested 1173.20-2110.76)
+    fmri times 1173.12-2112.24 (vols 753-1355)
+KRON film, ID 22 (scan session 1):
+    sequence time 1050.36-1993.00 (requested 1060.36-1997.92)
+    fmri times 1059.24-1998.36 (vols 680-1282)
+
+
+------------ Starting ISC calculations for segment 1/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (120 vols, 55 vs. 45): pval = 0.004
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (120 vols, 11 vs. 10): pval = 0.603
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (184.3s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.145 (null mean 0.000), KRON mean ISC 0.135 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 2 (of 3) done
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+done in 1431.0 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 43596/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (106.7s)!
+
+>>>>>> ISC Mantel test result: 48077/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 2/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (112 vols, 55 vs. 45): pval = 0.551
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (112 vols, 11 vs. 10): pval = 0.286
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (175.8s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.114 (null mean 0.000), KRON mean ISC 0.117 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.3 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+done in 1524.5 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 27186/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (107.7s)!
+
+>>>>>> ISC Mantel test result: 0/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 3/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (185 vols, 55 vs. 45): pval = 0.587
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (185 vols, 11 vs. 10): pval = 0.301
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (202.9s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.145 (null mean -0.000), KRON mean ISC 0.148 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.3 sec)
+Starting permutations
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+...set nr. 3 (of 3) done
+done in 1399.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 36960/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (100.3s)!
+
+>>>>>> ISC Mantel test result: 4927/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 4/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (188 vols, 55 vs. 45): pval = 0.078
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (188 vols, 11 vs. 10): pval = 0.445
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (207.8s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.116 (null mean -0.000), KRON mean ISC 0.125 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+done in 1357.4 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 30373/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (93.6s)!
+
+>>>>>> ISC Mantel test result: 799/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 5/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (132 vols, 55 vs. 45): pval = 0.387
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (132 vols, 11 vs. 10): pval = 0.437
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (155.8s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.125 (null mean -0.000), KRON mean ISC 0.115 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+done in 1279.3 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 24748/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (87.5s)!
+
+>>>>>> ISC Mantel test result: 6427/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 6/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session1/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.0 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (116 vols, 55 vs. 45): pval = 0.337
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (116 vols, 11 vs. 10): pval = 0.946
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (145.7s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.130 (null mean -0.000), KRON mean ISC 0.117 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 2 (of 3) done
+...set nr. 1 (of 3) done
+done in 1274.4 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 41892/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (85.6s)!
+
+>>>>>> ISC Mantel test result: 0/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 7/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session3/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (166 vols, 55 vs. 45): pval = 0.834
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (166 vols, 11 vs. 10): pval = 0.896
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (173.9s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.125 (null mean 0.000), KRON mean ISC 0.133 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+...set nr. 3 (of 3) done
+done in 1278.4 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 33974/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (86.9s)!
+
+>>>>>> ISC Mantel test result: 8/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 8/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.1 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (104 vols, 55 vs. 45): pval = 0.726
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (104 vols, 11 vs. 10): pval = 0.161
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (143.7s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.127 (null mean -0.000), KRON mean ISC 0.174 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 2 (of 3) done
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+done in 1244.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 59130/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (84.2s)!
+
+>>>>>> ISC Mantel test result: 424/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 9/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session2/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (152 vols, 55 vs. 45): pval = 0.322
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.7 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (152 vols, 11 vs. 10): pval = 0.959
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (154.8s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.086 (null mean 0.000), KRON mean ISC 0.099 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 1 (of 3) done
+...set nr. 2 (of 3) done
+done in 1203.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 18529/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (86.2s)!
+
+>>>>>> ISC Mantel test result: 0/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 10/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (135 vols, 55 vs. 45): pval = 0.928
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (135 vols, 11 vs. 10): pval = 0.257
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (149.4s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.129 (null mean -0.000), KRON mean ISC 0.150 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 2 (of 3) done
+...set nr. 1 (of 3) done
+done in 1208.2 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 33921/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (84.0s)!
+
+>>>>>> ISC Mantel test result: 0/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 11/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session2/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.8 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (110 vols, 55 vs. 45): pval = 0.676
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (110 vols, 11 vs. 10): pval = 0.117
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (137.8s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.133 (null mean 0.000), KRON mean ISC 0.139 (null mean 0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 3 (of 3) done
+...set nr. 2 (of 3) done
+...set nr. 1 (of 3) done
+done in 1140.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 27182/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (84.9s)!
+
+>>>>>> ISC Mantel test result: 5974/176520 significant at p<0.05
+
+
+------------ Starting ISC calculations for segment 12/12 ---------------
+
+Reading ORIG data
+...subj S7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S13_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S15: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S15_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S16: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S16_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S17: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S17_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S21: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S21_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S22: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S22_mask_detrend_fullreg_filtered_smoothed.nii
+...subj S23: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/Session3/post_processed_normal/bramila/S23_mask_detrend_fullreg_filtered_smoothed.nii
+
+Reading KRON data
+...subj KRON_2: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_2_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_3: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_3_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_5: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_5_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_6: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_6_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_7: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_7_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_8: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_8_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_9: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_9_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_10: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_10_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_12: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_12_mask_detrend_fullreg_filtered_smoothed.nii
+...subj KRON_13: /triton/becs/scratch/braindata/kauttoj2/Memento/2015/preprocessed/KRON/Session1/post_processed_normal/bramila/KRON_13_mask_detrend_fullreg_filtered_smoothed.nii
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 3 workers.
+Data size: 1 samples, 100 (55+45) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 2.4 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion fwd ISC test (603 vols, 55 vs. 45): pval = 0.454
+Data size: 1 samples, 21 (11+10) features
+Slicing data (1 sets)... done (0.0 sec)
+Starting permutations
+...set nr. 1 (of 1) done
+done in 1.6 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> Motion rms test (603 vols, 11 vs. 10): pval = 0.953
+
+
+Starting ISC computing
+... 1/20 done
+... 2/20 done
+... 3/20 done
+... 4/20 done
+... 5/20 done
+... 6/20 done
+... 7/20 done
+... 8/20 done
+... 9/20 done
+... 10/20 done
+... 11/20 done
+... 12/20 done
+... 13/20 done
+... 14/20 done
+... 15/20 done
+... 16/20 done
+... 17/20 done
+... 18/20 done
+... 19/20 done
+... 20/20 done
+
+Starting mean ISC permutations (total 200000)
+Finished (365.3s)!
+all done!
+
+>>>>>> ISC results: ORIGINAL mean ISC 0.127 (null mean 0.000), KRON mean ISC 0.108 (null mean -0.000)
+
+Data size: 176520 samples, 100 (55+45) features
+Slicing data (3 sets)... done (0.2 sec)
+Starting permutations
+...set nr. 1 (of 3) done
+...set nr. 3 (of 3) done
+...set nr. 2 (of 3) done
+done in 1169.9 sec
+Pooling results... done (0.0 sec)
+
+>>>>>> ISC group-difference result: 40694/176520 significant at p<0.05
+Bramila Mantel input: input data has 176520 samples with 210 variables, model matrix is 21x21 (->210)
+
+Starting Mantel-test permutations (total 200000)
+Finished (85.2s)!
+
+>>>>>> ISC Mantel test result: 35664/176520 significant at p<0.05
+
+
+ALL DONE!
